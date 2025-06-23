@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-exotic&label=Profile%20views&color=0e75b6&style=flat" alt="arun-exotic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-exotic" alt="arun-exotic" /></a> </p>
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 💬 Ask me about **Computer Hardwares, Games, Building a Project**
+
+- 📫 How to reach me **rkarunpravin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
