@@ -3,7 +3,7 @@
 👋 Hi, I'm Arunpravin  
 <br>Writing logic by day, gaming by night, movies in between 🎮🎬
 
-<br><br>- Final year B.E. Computer Science and Engineering student  
+<br>- Final year B.E. Computer Science and Engineering student  
 <br>- Strong interest in system-level technologies, deployment, and real-world problem solving  
 <br>- Skilled in C++ with hands-on experience in PC hardware and system setup  
 <br>- Comfortable working on projects from hardware level to complete product deployment  
